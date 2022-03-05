@@ -1,3 +1,8 @@
+/*Gabriele Stentella
+* UniMi
+* a.a. 2021/22
+*/
+
 #include "manageCode.h"
 
 #define NCOM 1296 //1296 = 6^4 = numbeer of possible combination
